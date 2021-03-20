@@ -1,0 +1,82 @@
+.a1{
+	position: absolute;
+	top: -1%;
+	left: -1%;
+  width: 101%; 
+  height: 210%;
+	background-color: #C71585;
+}
+.a2{
+	position: absolute;
+	top: 10%;
+	left: 60%;
+  font-size: 45px;
+  font-family:a1;
+  border-style: dotted;
+  color: white;
+}
+.a3{
+  position: absolute;
+  top: 10%;
+  left: 2%;
+  width: 47%; 
+  height: 84.5%;
+  background-image: url(../fotos/captura.jpg);
+}
+.a4{
+  position: absolute;
+  top: 94.5%;
+  left: 2%;
+  width: 62%; 
+  height: 75.5%;
+  background-image: url(../fotos/captura1.jpg);
+}
+.a5{
+  position: absolute;
+  top: 170%;
+  left: 2%;
+  width: 42%; 
+  height: 29%;
+  background-image: url(../fotos/captura2.jpg);
+}
+.a6{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  font-size: 25px;
+  font-family:a1;
+  color: white;
+}
+.a7{
+  position: absolute;
+  top: 170%;
+  left: 70%;
+  width: 20%;
+  height: 15%;
+  font-family: a1;
+  text-shadow: 2px 3px 1px #FF00FF;
+  border: dotted 5px;
+  font-size: 35px;
+  transition: width 2s;
+  color: white;
+}
+.a7:hover{
+  position: absolute;
+  top: 170%;
+  left: 70%;
+  width: 23%;
+  height: 15%;
+  font-family: a1;
+  text-shadow: 2px 3px 1px #FF00FF;
+  border: dotted 5px;
+  font-size: 35px;
+  color: white;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+@font-face{
+	font-family:a1;
+	src: url(fu1.ttf);
+}
